@@ -46,7 +46,7 @@ export default {
   name: 'index',
   data() {
     return {
-      musicUrl:"http://m7.music.126.net/20200303182550/8aa5971b1630d1527a922ccd2b97f392/ymusic/035d/0109/520e/478f86cc9f6c6539f7c8ed3e06c1bf8e.mp3"
+      musicUrl:"https://m801.music.126.net/20221013121535/739f248ab540e22560d2cc505286d5a2/jdyyaac/obj/w5rDlsOJwrLDjj7CmsOj/19699200758/cb49/7ca6/3f32/1295688dfd02c114ccabf5c6b257a698.m4a"
     };
   }
 };
